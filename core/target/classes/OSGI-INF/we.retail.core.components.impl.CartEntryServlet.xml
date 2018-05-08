@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="we.retail.core.components.impl.CartEntryServlet">
+        <implementation class="we.retail.core.components.impl.CartEntryServlet"/>
+        <service servicefactory="false">
+            <provide interface="javax.servlet.Servlet"/>
+            <provide interface="javax.servlet.ServletConfig"/>
+            <provide interface="java.io.Serializable"/>
+        </service>
+        <property name="service.description" value="Provides cart services for We.Retail products"/>
+        <property name="sling.servlet.resourceTypes" value="sling/servlet/default"/>
+        <property name="sling.servlet.selectors">
+            weretail.deletecartentry
+            weretail.modifycartentry
+            weretail.addcartentry
+        </property>
+        <property name="sling.servlet.extensions" value="html"/>
+        <property name="sling.servlet.methods" value="POST"/>
+        <property name="service.vendor" value="Adobe Systems Incorporated"/>
+        <property name="service.pid" value="we.retail.core.components.impl.CartEntryServlet"/>
+        <reference name="xssAPI" interface="org.apache.sling.xss.XSSAPI" cardinality="1..1" policy="static" bind="bindXssAPI" unbind="unbindXssAPI"/>
+    </scr:component>
+</components>

@@ -1,0 +1,15 @@
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockProduct.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/WeRetailCommerceServiceImplTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ProfileTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockDefaultJcrCartEntry.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockCommerceSession.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ShoppingCartModelTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/util/WeRetailHelperTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockAbstractJcrCommerceSession.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/Constants.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/OrderModelTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockCommerceService.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ProductModelTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/AppAemContext.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/OrderHistoryModelTest.java
+/Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockDefaultJcrPlacedOrder.java

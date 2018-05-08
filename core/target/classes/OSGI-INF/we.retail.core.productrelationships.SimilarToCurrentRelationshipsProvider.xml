@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component name="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider" activate="activate">
+        <implementation class="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider"/>
+        <service servicefactory="false">
+            <provide interface="com.adobe.cq.commerce.api.ProductRelationshipsProvider"/>
+        </service>
+        <property name="commerce.productRelationshipsProvider.type" value="we-retail.similar-to-current"/>
+        <property name="we-retail.similar-to-current.enabled" type="Boolean" value="true"/>
+        <property name="service.vendor" value="Adobe Systems Incorporated"/>
+        <property name="service.pid" value="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider"/>
+    </scr:component>
+</components>

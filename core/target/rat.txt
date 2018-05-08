@@ -1,0 +1,72 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-05-08T15:29:46-06:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 46
+
+Apache Licensed: 46
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/pom.xml
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/WeRetailCommerceServiceImplTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/util/WeRetailHelperTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/OrderModelTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/OrderHistoryModelTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ProfileTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ProductModelTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/ShoppingCartModelTest.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/we/retail/core/model/Constants.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockDefaultJcrCartEntry.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockProduct.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockDefaultJcrPlacedOrder.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockCommerceSession.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockAbstractJcrCommerceSession.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/mock/MockCommerceService.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/test/java/common/AppAemContext.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/WeRetailProductImpl.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/WeRetailConstants.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/util/UrlHelper.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/util/WeRetailHelper.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/util/package-info.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/productrelationships/SimilarToCartRelationshipsProvider.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/productrelationships/SimilarToCurrentRelationshipsProvider.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/productrelationships/AbstractRelationshipsProvider.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/productrelationships/SimilarProductsCollector.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/productrelationships/package-info.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/components/impl/CartEntryServlet.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/WeRetailCommerceServiceImpl.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/handler/CommerceHandler.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/handler/package-info.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/Profile.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/OrderModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/OrderHistoryModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/WishlistModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/VendorOrderModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/ProductItem.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/Article.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/ShoppingCartModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/ShoppingCartPricesModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/ProductModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/package-info.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/NavCartModel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/model/CountriesFormOptionsDataSource.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/WeRetailCommerceServiceFactory.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/package-info.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/core/src/main/java/we/retail/core/WeRetailCommerceSessionImpl.java
+ 
+*****************************************************

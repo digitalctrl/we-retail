@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>We.Retail - UI apps</comment>
+<entry key="createdBy">jaredrasmussen</entry>
+<entry key="name">we.retail.ui.apps</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2018-05-08T15:29:48.974-0600</entry>
+<entry key="groupId">com.adobe.cq.sample</entry>
+<entry key="version">2.0.4</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">day/cq60/product:cq-content:6.3.0,day/cq60/product:cq-foundation-content:1.3.0,day/cq60/product:cq-commerce-content:1.5.0,day/cq60/product:cq-cloudservices-content:1.3.0,day/cq60/product:cq-integration-dtm-content:1.1.4</entry>
+<entry key="group">adobe/aem6/sample</entry>
+<entry key="description">UI apps package for We.Retail</entry>
+<entry key="artifactId">we.retail.ui.apps</entry>
+<entry key="path">/etc/packages/adobe/aem6/sample/we.retail.ui.apps.zip</entry>
+</properties>

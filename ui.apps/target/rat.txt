@@ -1,0 +1,221 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-05-08T15:29:49-06:00
+
+Notes: 0
+Binaries: 21
+Archives: 0
+Standards: 174
+
+Apache Licensed: 174
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/pom.xml
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/META-INF/vault/config.xml
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/META-INF/vault/filter.xml
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/commerce/payment-methods/we-retail/paypal/_jcr_content/image/file
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/commerce/payment-methods/we-retail/creditcard/_jcr_content/image/file
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/favicon_32.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/favicon.ico
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/touch-icon_120.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/touch-icon_152.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/touch-icon_60.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/etc/designs/we-retail/touch-icon_76.png
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/global.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-product-page/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-product-page/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-dependencies/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-dependencies/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-communities/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-communities/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/bootstrap.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/variables.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/functions.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/helpers.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/icons.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/language-icons.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/common/mixins.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/authoring/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/authoring/js/modals.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/grid.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/utilities.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/logo.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/forms.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/navs.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/buttons.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/navbar.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/badges.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/type.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/modal.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/bootstrap/panels.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/image.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/header.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/campaigns.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/components/section.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/less/main.less
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/CH.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/US.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/AU.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/GB.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/JP.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/FR.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/ES.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/DE.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/IT.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/flags/CA.png
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/fonts/we-icons.1.0.0.woff
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/fonts/we-icons.1.0.0.ttf
+  B     /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/resources/fonts/we-icons.1.0.0.woff2
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/script.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-site/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-base/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/clientlibs/clientlib-base/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/form/options/datasource/countriesdatasource/countriesdatasource.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/form/button/button.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/sitefeature/clientlibs/less/site-feature.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/sitefeature/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/sitefeature/sitefeature.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/checkoutform/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/checkoutform/clientlibs/less/checkout.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/checkoutform/clientlibs/js/checkoutform.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/checkoutform/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/title/clientlibs/less/title.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/title/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/articleteaser/clientlibs/less/article-teaser.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/articleteaser/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/articleteaser/short.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/articleteaser/articleteaser.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/clientlibs/less/articles-list.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/list_item.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/ArticleList.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/articleslist/articleslist.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderdetails/clientlibs/less/orderdetails.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderdetails/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderdetails/orderdetails.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/minicart/minicart.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/heroimage/clientlibs/less/hero-image.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/heroimage/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/heroimage/HeroImage.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/heroimage/heroimage.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel/clientlibs/less/carousel.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel/listitem.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel/Carousel.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel/carousel.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/categoryteaser/clientlibs/less/category-teaser.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/categoryteaser/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/categoryteaser/CategoryTeaser.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/categoryteaser/categoryteaser.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/clientlibs/less/product-grid.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/clientlibs/js/product-item.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/item/clientlib/less/item.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/item/clientlib/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/item/Item.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/item/item.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/productgrid/productgrid.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderhistory/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderhistory/clientlibs/less/orderhistory.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderhistory/clientlibs/js/orderhistory.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderhistory/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/orderhistory/orderhistory.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/button/clientlibs/button.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/button/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/button/Button.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/button/button.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcart/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcart/clientlibs/less/cart.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcart/clientlibs/js/cart.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcart/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcart/shoppingcart.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/clientlibs/less/shoppingcartprices.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/clientlibs/js/shoppingcartprices.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/shoppingcartprices.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/breadcrumb/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/breadcrumb/clientlibs/breadcrumb.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/display.hbs
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/less/star.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/less/rating.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/js/rating.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/rating.hbs
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/voting/voting.hbs
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/voting/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/voting/clientlibs/js/voting.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/ProductFilter.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/productfilter.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/clientlib/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/clientlib/less/product-filter.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/clientlib/js/product-filter.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/clientlib/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productfilter/filtertemplate.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/footer/clientlibs/less/footer.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/footer/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/footer/Footer.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/footer/footer.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/body.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/header_include.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/customfooterlibs.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/customheaderlibs.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/clientlib/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/page/clientlib/style.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productreviews/productreviews.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/xfpage/body.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/xfpage/customfooterlibs.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/xfpage/customheaderlibs.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/product/product.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/product/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/product/clientlibs/less/product.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/product/clientlibs/js/product.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/product/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/clientlibs/less/smartlist.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/clientlibs/js/smartlist.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/mobilelink.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navwishlist/navwishlist.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productrecommendation/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productrecommendation/clientlibs/js/recommendation.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productrecommendation/producttemplate.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/productrecommendation/productrecommendation.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/navcart.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/clientlibs/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/clientlibs/less/cart.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/clientlibs/js/cart.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/clientlibs/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/navcart/mobilebutton.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/include.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/js.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/less/modal-search.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/less/languages-list.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/less/modal-signin.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/less/navbar.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/less/header.less
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/js/subitems.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/js/modal-search.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/js/utilities.js
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/clientlib/css.txt
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/modals.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/header.html
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/structure/header/Header.java
+  AL    /Users/jaredrasmussen/DevSpace/AEM-projects/dctrl/training/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/gui/components/admin/orders/cartitems/cartitems.html
+ 
+*****************************************************

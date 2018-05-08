@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="we.retail.all" />
+        <module name="we.retail.config" />
+        <module name="we.retail.core" />
+        <module name="we.retail.it.tests.ui-js" />
+        <module name="we.retail.ui.apps" />
+        <module name="we.retail.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="we.retail" target="1.6" />
+      <module name="we.retail.all" target="1.6" />
+      <module name="we.retail.config" target="1.6" />
+      <module name="we.retail.core" target="1.6" />
+      <module name="we.retail.it.tests.ui-js" target="1.6" />
+      <module name="we.retail.ui.apps" target="1.6" />
+      <module name="we.retail.ui.content" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
