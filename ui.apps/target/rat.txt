@@ -2,7 +2,7 @@
 *****************************************************
 Summary
 -------
-Generated at: 2018-05-08T15:27:26-06:00
+Generated at: 2018-05-08T16:00:12-06:00
 
 Notes: 0
 Binaries: 21
@@ -311,17 +311,17 @@ $(window).load(function() { //start after HTML, images have loaded
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="/apps/dctrl-apps/components/content/carousel/clientlibs/carousel.css">
+    <link rel="stylesheet" href="/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=3.0.1"></script>
-    <script type="text/javascript" src="/apps/dctrl-apps/components/content/carousel/clientlibs/js/carousel.js"></script>
+    <script type="text/javascript" src="/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js"></script>
 </head>
 <body>
 
 
 <div id="rotating-item-wrapper">
 
-    <img class ="rotating-item" src="/content/dam/dctrl-content/canada/alberta.jpg" width="980" height="347">
-    <img class ="rotating-item" src="/content/dam/dctrl-content/canada/" width="980" height="347">
+    <img class ="rotating-item" src="/content/dam/we-retail/en/activities/working/alberta.jpg" width="980" height="347">
+    <img class ="rotating-item" src="/content/dam/we-retail/en/activities/working/albertaEnergy.jpeg" width="980" height="347">
 
 </div>
 
