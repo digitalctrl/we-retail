@@ -1,0 +1,46 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-05-08T15:27:28-06:00
+
+Notes: 0
+Binaries: 17
+Archives: 0
+Standards: 3
+
+Apache Licensed: 3
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/pom.xml
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/META-INF/vault/config.xml
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/META-INF/vault/filter.xml
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/content/we-retail/_jcr_content/image/file
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/content/dam/projects/we-retail/_jcr_content/folderThumbnail
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/content/dam/projects/we-retail/cover/_jcr_content/renditions/original
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/template-types/redirect-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/template-types/empty-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/experience-fragment-web-variation/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/product-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/hero-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/redirect-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/content-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/content-page/thumbnail.png.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_48.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/content-page/thumbnail.png.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_300.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/section-page/thumbnail.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/section-page/thumbnail.png.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_60.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/section-page/thumbnail.png.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_48.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/section-page/thumbnail.png.dir/_jcr_content/_dam_thumbnails/_dam_thumbnail_300.png
+  B     /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.content/src/main/content/jcr_root/conf/we-retail/settings/wcm/templates/experience-page/thumbnail.png
+ 
+*****************************************************

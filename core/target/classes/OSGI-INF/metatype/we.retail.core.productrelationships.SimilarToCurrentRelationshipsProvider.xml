@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider">
+    <OCD id="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider" name="%we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider.name" description="%we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider.description">
+        <AD id="we-retail.similar-to-current.enabled" type="Boolean" default="true" name="%we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider.we-retail.similar-to-current.enabled.name" description="%we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider.we-retail.similar-to-current.enabled.description"/>
+    </OCD>
+    <Designate pid="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider">
+        <Object ocdref="we.retail.core.productrelationships.SimilarToCurrentRelationshipsProvider"/>
+    </Designate>
+</metatype:MetaData>

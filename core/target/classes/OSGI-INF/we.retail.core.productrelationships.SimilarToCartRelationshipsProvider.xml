@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component name="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider" activate="activate">
+        <implementation class="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider"/>
+        <service servicefactory="false">
+            <provide interface="com.adobe.cq.commerce.api.ProductRelationshipsProvider"/>
+        </service>
+        <property name="commerce.productRelationshipsProvider.type" value="we-retail.similar-to-cart"/>
+        <property name="we-retail.similar-to-cart.enabled" type="Boolean" value="true"/>
+        <property name="service.vendor" value="Adobe Systems Incorporated"/>
+        <property name="service.pid" value="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider"/>
+    </scr:component>
+</components>

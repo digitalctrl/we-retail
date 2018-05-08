@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>We.Retail - All</comment>
+<entry key="createdBy">cooperhowling</entry>
+<entry key="name">we.retail.all</entry>
+<entry key="created">2018-05-08T15:27:33.845-0600</entry>
+<entry key="groupId">com.adobe.cq.sample</entry>
+<entry key="version">2.0.4</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">day/cq60/product:cq-content:6.3.0,day/cq60/product:cq-commerce-content:1.5.0,adobe/cq60:core.wcm.components.all:1.0.0</entry>
+<entry key="group">adobe/cq60/sample</entry>
+<entry key="description">Combined package for We.Retail</entry>
+<entry key="artifactId">we.retail.all</entry>
+<entry key="path">/etc/packages/adobe/cq60/sample/we.retail.all.zip</entry>
+</properties>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/weretail/install/we.retail.core-2.0.4.jar" />
+    <filter root="/etc/packages/adobe/aem6/sample/we.retail.ui.apps-2.0.4.zip" />
+    <filter root="/etc/packages/adobe/aem6/sample/we.retail.ui.content-2.0.4.zip" />
+    <filter root="/etc/packages/adobe/aem6/sample/we.retail.config-2.0.4.zip" />
+    <filter root="/etc/packages/adobe/aem6/sample/we.retail.commons.content-2.0.0.zip" />
+</workspaceFilter>

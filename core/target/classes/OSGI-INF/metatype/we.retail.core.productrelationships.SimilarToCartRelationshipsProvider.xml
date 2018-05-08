@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/we.retail.core.productrelationships.SimilarToCartRelationshipsProvider">
+    <OCD id="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider" name="%we.retail.core.productrelationships.SimilarToCartRelationshipsProvider.name" description="%we.retail.core.productrelationships.SimilarToCartRelationshipsProvider.description">
+        <AD id="we-retail.similar-to-cart.enabled" type="Boolean" default="true" name="%we.retail.core.productrelationships.SimilarToCartRelationshipsProvider.we-retail.similar-to-cart.enabled.name" description="%we.retail.core.productrelationships.SimilarToCartRelationshipsProvider.we-retail.similar-to-cart.enabled.description"/>
+    </OCD>
+    <Designate pid="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider">
+        <Object ocdref="we.retail.core.productrelationships.SimilarToCartRelationshipsProvider"/>
+    </Designate>
+</metatype:MetaData>

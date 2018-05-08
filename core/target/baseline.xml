@@ -1,0 +1,99 @@
+<baseline version="1.0.0" vendor="The Apache Software Foundation" vendorURL="http://www.apache.org/" generator="Apache Felix Maven Bundle Plugin" generatorURL="http://felix.apache.org/site/apache-felix-maven-bundle-plugin-bnd.html" analyzer="Bnd" analyzerURL="http://www.aqute.biz/Bnd/Bnd" generatedOn="2018-05-08T15:27Z" bundleName="we.retail.core" currentVersion="2.0.4" previousVersion="2.0.2">
+  <package name="we.retail.core" delta="unchanged">
+    <mismatch>false</mismatch>
+    <newerVersion>1.0.0</newerVersion>
+    <olderVersion>1.0.0</olderVersion>
+    <suggestedVersion>1.0.0</suggestedVersion>
+    <attributes>
+      <version>1.0</version>
+      <uses>com.adobe.cq.commerce.api,com.adobe.cq.commerce.api.promotion,com.adobe.cq.commerce.common,com.day.cq.wcm.api,org.apache.commons.collections,org.apache.sling.api,org.apache.sling.api.resource</uses>
+    </attributes>
+  </package>
+  <package name="we.retail.core.model" delta="major">
+    <mismatch>false</mismatch>
+    <newerVersion>3.0.0</newerVersion>
+    <olderVersion>2.0.0</olderVersion>
+    <suggestedVersion>3.0.0</suggestedVersion>
+    <attributes>
+      <version>3.0.0</version>
+      <uses>com.adobe.cq.commerce.api,com.adobe.cq.commerce.api.promotion,com.day.cq.tagging,com.day.cq.wcm.api,javax.annotation,javax.inject,javax.servlet,org.apache.commons.collections,org.apache.sling.api,org.apache.sling.api.resource,org.apache.sling.api.servlets,org.apache.sling.models.annotations,org.apache.sling.models.annotations.injectorspecific</uses>
+    </attributes>
+    <class name="we.retail.core.model.Article" delta="major">
+      <method name="getImagePath()" delta="removed">
+        <return name="java.lang.String" delta="removed"/>
+      </method>
+      <method name="getImageResource()" delta="added">
+        <return name="org.apache.sling.api.resource.Resource" delta="added"/>
+      </method>
+    </class>
+    <class name="we.retail.core.model.CountriesFormOptionsDataSource" delta="major">
+      <extends name="com.adobe.cq.wcm.core.components.models.form.DataSourceModel" delta="removed"/>
+      <extends name="org.apache.sling.api.servlets.SlingSafeMethodsServlet" delta="added"/>
+      <field name="java.lang.String COUNTRY_OPTIONS_HEADER" delta="removed">
+        <access name="final" delta="removed"/>
+        <access name="protected" delta="removed"/>
+        <access name="static" delta="removed"/>
+        <constant name="Country" delta="removed"/>
+      </field>
+      <field name="java.lang.String RESOURCE_TYPE" delta="removed">
+        <access name="final" delta="removed"/>
+        <access name="protected" delta="removed"/>
+        <access name="static" delta="removed"/>
+        <constant name="weretail/components/form/options/datasource/countriesdatasource" delta="removed"/>
+      </field>
+      <method name="doGet(org.apache.sling.api.SlingHttpServletRequest,org.apache.sling.api.SlingHttpServletResponse)" delta="added">
+        <access name="protected" delta="added"/>
+      </method>
+      <annotated name="org.apache.sling.models.annotations.Model" delta="removed">
+        <property name="adaptables.0=org.apache.sling.api.SlingHttpServletRequest" delta="removed"/>
+        <property name="adapters.0=com.adobe.cq.wcm.core.components.models.form.DataSourceModel" delta="removed"/>
+        <property name="resourceType.0=&apos;weretail/components/form/options/datasource/countriesdatasource&apos;" delta="removed"/>
+      </annotated>
+      <annotated name="org.osgi.service.component.annotations.Component" delta="added">
+        <property name="property.0=&apos;sling.servlet.resourceTypes=weretail/components/form/options/datasource/countriesdatasource&apos;" delta="added"/>
+        <property name="property.1=&apos;sling.servlet.methods=GET&apos;" delta="added"/>
+        <property name="property.2=&apos;sling.servlet.extensions=html&apos;" delta="added"/>
+        <property name="service.0=javax.servlet.Servlet" delta="added"/>
+      </annotated>
+    </class>
+    <version name="2.0.0" delta="removed"/>
+    <version name="3.0.0" delta="added"/>
+  </package>
+  <package name="we.retail.core.model.handler" delta="unchanged">
+    <mismatch>false</mismatch>
+    <newerVersion>2.0.0</newerVersion>
+    <olderVersion>2.0.0</olderVersion>
+    <suggestedVersion>2.0.0</suggestedVersion>
+    <attributes>
+      <version>2.0.0</version>
+      <uses>com.adobe.cq.commerce.api,org.apache.sling.api,org.apache.sling.models.annotations</uses>
+    </attributes>
+  </package>
+  <package name="we.retail.core.productrelationships" delta="unchanged">
+    <mismatch>false</mismatch>
+    <newerVersion>2.0.0</newerVersion>
+    <olderVersion>2.0.0</olderVersion>
+    <suggestedVersion>2.0.0</suggestedVersion>
+    <attributes>
+      <version>2.0.0</version>
+      <uses>com.adobe.cq.commerce.api,com.day.cq.wcm.api,org.apache.sling.api,org.apache.sling.api.resource</uses>
+    </attributes>
+  </package>
+  <package name="we.retail.core.tools" delta="removed">
+    <mismatch>false</mismatch>
+    <newerVersion>0.0.0</newerVersion>
+    <olderVersion>2.0.2</olderVersion>
+    <info>Package removed</info>
+    <attributes/>
+  </package>
+  <package name="we.retail.core.util" delta="unchanged">
+    <mismatch>false</mismatch>
+    <newerVersion>2.0.0</newerVersion>
+    <olderVersion>2.0.0</olderVersion>
+    <suggestedVersion>2.0.0</suggestedVersion>
+    <attributes>
+      <version>2.0.0</version>
+      <uses>com.day.cq.wcm.api,org.apache.sling.api.resource</uses>
+    </attributes>
+  </package>
+</baseline>

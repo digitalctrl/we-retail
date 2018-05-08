@@ -1,0 +1,50 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2018-05-08T15:27:33-06:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 24
+
+Apache Licensed: 24
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/pom.xml
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/META-INF/vault/config.xml
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/META-INF/vault/filter.xml
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/experience/ExperienceSuite.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/js.txt
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/homepage/HomepageSuite.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/ns.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/navigation/NavigationSuite.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/product-category/ProductCategorySuite.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/product/ProductSuite.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/TeasersTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/SiteFeaturesTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/ButtonTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/HeroImageTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/FooterTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/ArticlesTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/Utils.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/BreadcrumbTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/ProductTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/ProductsGridTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/frontend/common/NavbarTest.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/admin/js.txt
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/admin/ns.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/it.tests.ui-js/src/main/content/jcr_root/apps/weretail/tests/admin/navigation/Navigation.js
+ 
+*****************************************************

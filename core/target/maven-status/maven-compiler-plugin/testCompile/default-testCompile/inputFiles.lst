@@ -1,0 +1,15 @@
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/Constants.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/ProfileTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/ProductModelTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/ShoppingCartModelTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/WeRetailCommerceServiceImplTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockDefaultJcrCartEntry.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/AppAemContext.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/util/WeRetailHelperTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/OrderModelTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/we/retail/core/model/OrderHistoryModelTest.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockDefaultJcrPlacedOrder.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockAbstractJcrCommerceSession.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockCommerceService.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockCommerceSession.java
+/Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/core/src/test/java/common/mock/MockProduct.java
