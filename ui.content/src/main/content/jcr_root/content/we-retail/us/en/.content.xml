@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
+    <activitystreams jcr:primaryType="nt:unstructured">
+        <activities/>
+    </activitystreams>
     <user/>
     <jcr:content
         cq:cartPage="/content/we-retail/us/en/user/cart"
         cq:checkoutPage="/content/we-retail/us/en/user/cart"
         cq:commerceProvider="we-retail"
-        cq:lastModified="{Date}2016-06-29T14:20:45.038+02:00"
+        cq:lastModified="{Date}2018-05-11T11:09:37.125-06:00"
         cq:lastModifiedBy="admin"
         cq:lastRolledout="{Date}2016-06-29T14:20:45.039+02:00"
         cq:lastRolledoutBy="admin"

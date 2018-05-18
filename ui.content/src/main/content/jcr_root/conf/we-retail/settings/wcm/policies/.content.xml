@@ -74,12 +74,12 @@
                     </we-retail-default>
                     <we-retail-structure
                         jcr:description="Policy for templates to allow structure components"
-                        jcr:lastModified="{Date}2016-10-10T22:34:33.689+02:00"
+                        jcr:lastModified="{Date}2018-05-11T11:52:51.122-06:00"
                         jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="We.Retail Structure"
                         sling:resourceType="wcm/core/components/policy/policy"
-                        components="[/libs/wcm/foundation/components/responsivegrid,group:We.Retail,group:We.Retail Commerce,group:We.Retail.Structure,/libs/cq/experience-fragments/editor/components/experiencefragment,/libs/dam/cfm/components/contentfragment]"
+                        components="[/libs/dam/cfm/components/contentfragment,/libs/cq/experience-fragments/editor/components/experiencefragment,/libs/wcm/foundation/components/responsivegrid,group:We.Retail,group:We.Retail Commerce,group:We.Retail.Structure]"
                         policyResourceType="wcm/foundation/components/responsivegrid">
                         <cq:authoring jcr:primaryType="nt:unstructured">
                             <assetToComponentMapping jcr:primaryType="nt:unstructured">

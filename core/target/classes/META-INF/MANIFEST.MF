@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1525816809928
+Bnd-LastModified: 1525971509236
 Build-Jdk: 1.8.0_172
 Built-By: cooperhowling
 Bundle-Description: Core bundle for We.Retail

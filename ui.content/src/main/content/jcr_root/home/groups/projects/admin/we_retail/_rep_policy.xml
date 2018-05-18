@@ -5,7 +5,7 @@
         jcr:primaryType="rep:GrantACE"
         rep:principalName="projects-we_retail"
         rep:privileges="{Name}[jcr:read]"/>
-    <allow0
+    <allow1
         jcr:primaryType="rep:GrantACE"
         rep:principalName="projects-we_retail-owner"
         rep:privileges="{Name}[jcr:all]"/>

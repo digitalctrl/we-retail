@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-05-11T13:05:25.593-06:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/personalization/templates/teaser"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="en(site_feature_859708776)"
+        jcr:uuid="eb018a0a-5e7b-4c60-8939-e95b07fa1c56"
+        sling:resourceType="cq/personalization/components/teaserpage"
+        location="5bfdc50f-c998-452e-bb53-684a2798f025">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <site_feature_859708776
+                cq:lastRolledout="{Date}2016-09-23T16:25:59.434-07:00"
+                cq:lastRolledoutBy="admin"
+                jcr:created="{Date}2015-11-04T00:10:12.400+01:00"
+                jcr:createdBy="admin"
+                jcr:description="Learn from the west coast"
+                jcr:lastModified="{Date}2018-05-11T13:05:25.592-06:00"
+                jcr:lastModifiedBy="admin"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Healthy choices"
+                sling:resourceType="weretail/components/content/sitefeature"
+                icon="heart">
+                <cq:responsive
+                    cq:lastRolledout="{Date}2016-09-23T16:25:59.436-07:00"
+                    cq:lastRolledoutBy="admin"
+                    jcr:mixinTypes="[cq:LiveRelationship]"
+                    jcr:primaryType="nt:unstructured">
+                    <default
+                        cq:lastRolledout="{Date}2016-09-23T16:25:59.439-07:00"
+                        cq:lastRolledoutBy="admin"
+                        jcr:mixinTypes="[cq:LiveRelationship]"
+                        jcr:primaryType="nt:unstructured"
+                        width="4"/>
+                    <phone
+                        cq:lastRolledout="{Date}2016-09-23T16:25:59.441-07:00"
+                        cq:lastRolledoutBy="admin"
+                        jcr:mixinTypes="[cq:LiveRelationship]"
+                        jcr:primaryType="nt:unstructured"
+                        width="12"/>
+                </cq:responsive>
+            </site_feature_859708776>
+        </par>
+    </jcr:content>
+</jcr:root>

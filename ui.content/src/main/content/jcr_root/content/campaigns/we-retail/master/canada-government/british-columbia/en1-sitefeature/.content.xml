@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-05-11T13:05:11.119-06:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/personalization/templates/teaser"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="en1(sitefeature)"
+        sling:resourceType="cq/personalization/components/teaserpage"
+        location="93a7dfb8-39df-464e-b1f4-ced012a6ea81">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <sitefeature
+                jcr:created="{Date}2018-05-11T11:54:27.176-06:00"
+                jcr:createdBy="admin"
+                jcr:description="How Canada improves"
+                jcr:lastModified="{Date}2018-05-11T13:05:11.118-06:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="where taxes go"
+                sling:resourceType="weretail/components/content/sitefeature"
+                icon="shoping-cart-alt">
+                <cq:responsive jcr:primaryType="nt:unstructured">
+                    <default
+                        jcr:primaryType="nt:unstructured"
+                        offset="0"
+                        width="4"/>
+                </cq:responsive>
+            </sitefeature>
+        </par>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-05-10T14:54:44.790-06:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cq/personalization/templates/teaser"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:mixinTypes="[mix:versionable]"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="en(site_feature_465639357)"
+        jcr:uuid="fa55269a-20d2-43c8-b50f-739054518c7b"
+        sling:resourceType="cq/personalization/components/teaserpage"
+        location="b67c3ce7-2627-41e7-9b4f-69fdc7455b2f">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="foundation/components/parsys">
+            <site_feature_465639357
+                cq:lastRolledout="{Date}2016-09-23T16:25:59.423-07:00"
+                cq:lastRolledoutBy="admin"
+                jcr:created="{Date}2015-11-04T00:10:50.268+01:00"
+                jcr:createdBy="admin"
+                jcr:description="How Canada improves"
+                jcr:lastModified="{Date}2018-05-10T14:54:28.860-06:00"
+                jcr:lastModifiedBy="admin"
+                jcr:mixinTypes="[cq:LiveRelationship]"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="where taxes go"
+                sling:resourceType="weretail/components/content/sitefeature"
+                icon="shoping-cart-alt">
+                <cq:responsive
+                    cq:lastRolledout="{Date}2016-09-23T16:25:59.425-07:00"
+                    cq:lastRolledoutBy="admin"
+                    jcr:mixinTypes="[cq:LiveRelationship]"
+                    jcr:primaryType="nt:unstructured">
+                    <default
+                        cq:lastRolledout="{Date}2016-09-23T16:25:59.428-07:00"
+                        cq:lastRolledoutBy="admin"
+                        jcr:mixinTypes="[cq:LiveRelationship]"
+                        jcr:primaryType="nt:unstructured"
+                        width="4"/>
+                    <phone
+                        cq:lastRolledout="{Date}2016-09-23T16:25:59.429-07:00"
+                        cq:lastRolledoutBy="admin"
+                        jcr:mixinTypes="[cq:LiveRelationship]"
+                        jcr:primaryType="nt:unstructured"
+                        width="12"/>
+                </cq:responsive>
+            </site_feature_465639357>
+        </par>
+    </jcr:content>
+</jcr:root>

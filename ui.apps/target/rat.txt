@@ -2,31 +2,20 @@
 *****************************************************
 Summary
 -------
-Generated at: 2018-05-08T16:00:12-06:00
+Generated at: 2018-05-10T10:58:31-06:00
 
 Notes: 0
 Binaries: 21
 Archives: 0
 Standards: 178
 
-Apache Licensed: 174
+Apache Licensed: 178
 Generated Documents: 0
 
 JavaDocs are generated, thus a license header is optional.
 Generated files do not require license headers.
 
-4 Unknown Licenses
-
-*****************************************************
-
-Files with unapproved licenses:
-
-  /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js.txt
-  /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js
-  /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css
-  /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/carousel.html
-
-*****************************************************
+0 Unknown Licenses
 
 *****************************************************
   Files with Apache License headers will be marked AL
@@ -161,10 +150,10 @@ Files with unapproved licenses:
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/shoppingcartprices/shoppingcartprices.html
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/breadcrumb/clientlibs/css.txt
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/breadcrumb/clientlibs/breadcrumb.less
- !????? /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js.txt
- !????? /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js
- !????? /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css
- !????? /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/carousel.html
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js.txt
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css
+  AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/carousel.html
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/display.hbs
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/js.txt
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/hbs/rating/clientlibs/less/star.less
@@ -234,96 +223,3 @@ Files with unapproved licenses:
   AL    /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/gui/components/admin/orders/cartitems/cartitems.html
  
 *****************************************************
-
- Printing headers for text files without a valid license header...
- 
-=====================================================
-== File: /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js.txt
-=====================================================
-js/jquery.infinitecarousel3.js
-js/jquery.infinitecarousel3.min.js
-
-=====================================================
-== File: /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js
-=====================================================
-$(window).load(function() { //start after HTML, images have loaded
- 
-    var InfiniteRotator =
-    {
-        init: function()
-        {
-            //initial fade-in time (in milliseconds)
-            var initialFadeIn = 1000;
- 
-            //interval between items (in milliseconds)
-            var itemInterval = 5000;
- 
-            //cross-fade time (in milliseconds)
-            var fadeTime = 2500;
- 
-            //count number of items
-            var numberOfItems = $('.rotating-item').length;
- 
-            //set current item
-            var currentItem = 0;
- 
-            //show first item
-            $('.rotating-item').eq(currentItem).fadeIn(initialFadeIn);
- 
-            //loop through the items
-            var infiniteLoop = setInterval(function(){
-                $('.rotating-item').eq(currentItem).fadeOut(fadeTime);
- 
-                if(currentItem == numberOfItems -1){
-                    currentItem = 0;
-                }else{
-                    currentItem++;
-                }
-                $('.rotating-item').eq(currentItem).fadeIn(fadeTime);
- 
-            }, itemInterval);
-        }
-    };
- 
-    InfiniteRotator.init();
- 
-});
-
-=====================================================
-== File: /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css
-=====================================================
-#rotating-item-wrapper {
-    position: relative;
-    width: 980px;
-    height: 347px;
-}
-.rotating-item {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-}}
-
-=====================================================
-== File: /Users/cooperhowling/DevSpace/AEMprojects/digitalctrl/we-retail/ui.apps/src/main/content/jcr_root/apps/weretail/components/content/carousel-AB/carousel.html
-=====================================================
-
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="/apps/weretail/components/content/carousel-AB/clientlibs/carousel.css">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=3.0.1"></script>
-    <script type="text/javascript" src="/apps/weretail/components/content/carousel-AB/clientlibs/js/carousel.js"></script>
-</head>
-<body>
-
-
-<div id="rotating-item-wrapper">
-
-    <img class ="rotating-item" src="/content/dam/we-retail/en/activities/working/alberta.jpg" width="980" height="347">
-    <img class ="rotating-item" src="/content/dam/we-retail/en/activities/working/albertaEnergy.jpeg" width="980" height="347">
-
-</div>
-
-</body>
-</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2018-05-10T15:00:52.550-06:00"
+        cq:lastModifiedBy="admin"
+        cq:segments="[/etc/segmentation/contexthub/saskatchewan]"
+        cq:template="/libs/cq/personalization/templates/experience"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Saskatchewan"
+        sling:resourceType="cq/personalization/components/experiencepage"/>
+    <en-hero_image/>
+    <en-site_feature_465639357/>
+    <en-category_teaser/>
+    <en-site_feature_859708776/>
+    <en-category_teaser_859708776/>
+    <en-category_teaser_465639357/>
+    <en-site_feature/>
+    <en-sitefeature/>
+    <en1-sitefeature/>
+</jcr:root>
